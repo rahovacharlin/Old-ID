@@ -1,5 +1,11 @@
+# OLD-ID
+
+This tools is cloning old Facebook ID
+
 ```
-weldone
+git clone https://github.com/rahovacharlin/Old-ID
+cd Old-ID
+python charlin.py
 ```
 
-# Old-ID
+## Old-ID
